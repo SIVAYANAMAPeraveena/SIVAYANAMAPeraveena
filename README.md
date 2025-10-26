@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SIVAYANAMAPeraveena
 - 👀 I’m interested of doing the best way my work 😅
-- 🌱 I’m currently learning to code (html and css for now
+- 🌱 I’m currently in reconversion in data
 - 📕 I am gratuated of MSc and MBA Digital Marketing
 
 <!---
